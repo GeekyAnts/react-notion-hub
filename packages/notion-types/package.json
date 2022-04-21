@@ -1,10 +1,9 @@
 {
   "name": "notion-types",
-  "version": "6.11.0",
+  "version": "0.1.0",
   "type": "module",
   "description": "TypeScript types for core Notion data structures.",
-  "repository": "NotionX/react-notion-x",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "repository": "GeekyAnts/react-notion-hub",
   "license": "MIT",
   "types": "./build/index.d.ts",
   "sideEffects": false,

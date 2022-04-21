@@ -6,7 +6,7 @@
 
 > Robust TypeScript client for the unofficial Notion API.
 
-[![NPM](https://img.shields.io/npm/v/notion-client.svg)](https://www.npmjs.com/package/notion-client)[![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
+[![NPM](https://img.shields.io/badge/npm-v0.1.0-brightgreen.svg)](https://www.npmjs.com/package/notion-client)[![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 ## Install
 
