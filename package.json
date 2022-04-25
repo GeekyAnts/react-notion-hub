@@ -1,12 +1,13 @@
 {
   "name": "notion",
   "private": true,
-  "description": "Fast and accurate React renderer for Notion. TS batteries included.",
+  "description": "Fast and accurate React renderer for Notion with custom rendering",
   "repository": "GeekyAnts/react-notion-hub",
   "license": "MIT",
   "engines": {
     "node": ">=12"
   },
+  "keywords": ["React", "react-notion-hub", "Notion","react-notion"],
   "workspaces": [
     "packages/*",
     "examples/*"
